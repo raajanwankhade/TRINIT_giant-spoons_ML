@@ -1,5 +1,4 @@
 # Image Captioning for Remote Sensing Data
-Team Name : TRINIT_giant-spoons_ML
 
 [Demo Video](https://drive.google.com/file/d/15pppNEg9lJwh0UlrcC6isNwk925E4yTJ/view?usp=sharing)
 
